@@ -1,4 +1,8 @@
-# 随想录（三）
+---
+layout: post
+title: 随想录（三）
+lang: zh
+---
 
 一
 我立在池岸，
