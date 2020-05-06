@@ -2,7 +2,7 @@
 title: About me
 ---
 
-A pseudo physicist :)
+A pseudo physicist.
 
 
 
