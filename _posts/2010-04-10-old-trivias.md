@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2010-04旧文
+title: 2010-04-10旧文
 lang: zh
 ---
 
